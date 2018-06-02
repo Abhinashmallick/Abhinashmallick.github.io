@@ -1,0 +1,65 @@
+
+
+This project will be evaluated on following basis -
+1) Quality of CSS and HTML code - Your website’s CSS and HTML code should
+be of best quality possible and without any bugs.
+2) Responsive Design - Your website should be full responsive. It will be checked
+thoroughly for all the things that have been taught to you in the level.
+3) Intuitive Thinking - You will get marks for intuitive thinking and creativity. So
+try to be as creative as you can.
+4) Originality of code - Your code will be checked for plagiarism and if it's not
+original, it will be discarded with a negative skill score.
+
+
+Project Discription :
+
+index.html - code written by using HTML5
+grid.html - code written by using HTML5 for resposiveness
+css/style.css - write code for all style
+
+Images - Images downloaded from unsplash
+
+Video - Video is downloaded from coverr
+
+all project written by using Sass (Syntactically awesome style sheets)
+
+SASS folder description :
+
+1)  main.scss - connection of all sass/scss file
+
+In abstracts folder
+
+1) _function.scss
+2) _mixin.scss - mixin clearfix, absCenter and media query for phone, tablets, normal and big desktop
+3) _variables.scss - variable define for all colors, font-size, grid
+
+In Base folder
+
+1) _animation.scss - for animations 
+2) _base.scss - css for all, body and html 
+3) _typography.scss - css for headings and paragraphs
+4) _utilities.scss - set margin for fonts and others
+
+In Components Folder
+
+1) _bg-video.scss - css for video
+2) _button.scss -  css for all animated buttons
+3) _card.scss - css for responsive rotate cards 
+4) _composition.scss - css for about section
+5) _feature-box.scss - design four resposive feature box 
+6) _form.scss - design form and modify the radio button
+7) _popup.scss -  css design for popup box when click on the rotate cards book now.
+8) _story.scss - css design above the video background story of clients 
+
+In Base folder
+
+1) _footer.scss - design footer section 
+2) _grid.scss - write css for grid and responsiveness 
+3) _header.scss - design header section using linear gradient and clip-path
+4) _navigation.scss - design a fixed nav_bar animated checkbox botton
+
+
+In Pages
+
+1) _home.scss - css for all sections in website
+
